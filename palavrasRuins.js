@@ -114,6 +114,9 @@ export const PALAVRAS_RUINS = new Set([
     "todavia",
     "inclusive",
     "diante",
+    "dinheiro",
+    "pressão",
+    "infinito",
     "sobre",
     "quanto",
     "apenas",
@@ -121,7 +124,5 @@ export const PALAVRAS_RUINS = new Set([
     "uma vez",
     "segundo",
     "junto"
-    "dinheiro"
-    "infinito"
-     "pressão"
+    
 ]);
